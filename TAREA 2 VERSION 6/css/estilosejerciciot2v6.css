@@ -1,0 +1,29 @@
+body {
+	padding-bottom:10px;
+}
+caption{
+	background-color:lightpink;
+	font:arial;
+	font-size:20px;
+	color:black;
+}
+strong {
+	font:arial;
+	font-size:20px;
+}
+img{
+	width:30px;
+	height:30px;
+}
+td {
+	text-align:center;
+}
+.alm1 {
+	text-align:center;
+}
+.alm2 {
+	text-align:center;
+}
+.alm3 {
+	text-align:center;
+}
